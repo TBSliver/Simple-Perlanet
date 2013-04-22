@@ -1,0 +1,21 @@
+=head1 NAME
+
+Simple Perlanet
+
+=head1 DESCRIPTION
+
+This is an example script for using Perlanet::Simple, ready to go. to run it, just run
+
+  perl bin/playaround.pl
+  
+and thats all there is to it!
+
+=head1 AUTHOR
+
+Tom 'TBSliver' Bloor <t.bloor at shadowcat.co.uk>
+
+=head1 COPYRIGHT AND LICENCE
+
+Copyright 2013: Tom Bloor http://tbsliver.wordpress.com
+
+This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.8.6 or, at your option, any later version of Perl 5 you may have available.

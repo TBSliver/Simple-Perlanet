@@ -1,0 +1,23 @@
+title: Maker Planet
+description: Make all the things!
+url: http://tbsliver.wordpress.com
+author:
+  name: Tom Bloor
+  email: not.so.stupid@toputthis.here
+entries: 20
+page:
+  file: www/index.html
+  template: etc/index.tt
+feed:
+  file: www/atom.xml
+  format: Atom
+feeds:
+  - url: http://blog.makezine.com/feed/
+    title: MAKE Magazine
+    web: http://makezine.com/
+  - url: http://arduino.cc/blog/feed/
+    title: Arduino Blog
+    web: http://arduino.cc/
+  - url: http://www.adafruit.com/blog/feed/
+    title: Adafruit Industries
+    web: http://www.adafruit.com/
